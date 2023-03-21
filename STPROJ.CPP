@@ -5,28 +5,6 @@
 #include<dos.h>
 #include<iostream.h>
 
-/*
-#include<iostream>
-#include<windows.h>
-using namespace std;
-*/
-/*
-	Complete: 15/09/63
-
-	Edit LOG:
-	20/09/63:
-		add time system but not finish(fail to show live time(print only))
-		add frame system but not finish
-	21/09/63:
-		frame finish!!
-		time finish!!
-		fix bug code not finish
-	17/10/63:
-		fixing bug 12.20 u.
-		transection history bug fix 12.55 u.
-		adding credit menu
-*/
-
 char a = 178;
 int stock[6] = {10,9,8,5,7,2};
 int stcheck[6] = {10,9,8,5,7,2};
